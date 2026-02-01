@@ -1,27 +1,19 @@
-# 🐳 Docker Portfolio Application
+# node-todo-cicd
 
-A modern, responsive portfolio website containerized with Docker and Nginx.
+Run these commands:
 
-## 🚀 Features
-- ✅ **Production-ready** Docker configuration
-- ✅ **Multi-stage builds** for optimized images
-- ✅ **Nginx** reverse proxy with security headers
-- ✅ **Health checks** and monitoring
-- ✅ **Responsive design** for all devices
-- ✅ **CI/CD ready** structure
 
-## 🛠️ Quick Start
+`sudo apt install nodejs`
 
-### Prerequisites
-- Docker
-- Docker Compose
 
-### Local Development
-```bash
-# Clone repository
-git clone [https://github.com/junaidtyagi9555/DevOps-Projects]
+`sudo apt install npm`
 
-# Build and run
-docker-compose up --build
 
-# Access at http://localhost:8080
+`npm install`
+
+`node app.js`
+
+or Run by docker compose
+
+test
+

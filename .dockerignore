@@ -1,9 +1,0 @@
-.git
-.gitignore
-node_modules
-*.log
-.DS_Store
-.env
-docker-compose.override.yml
-README.md
-screenshots/
