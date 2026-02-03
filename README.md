@@ -86,7 +86,7 @@ http://<EC2-Public-IP>:8000
 | Description | Screenshot |
 |--------------|-------------|
 | Docker-Images | ![Docker Image](Docker-images.jpg) |
-| Node-App Webpage | ![Node-App-webpage](Node-app web-page.jpg) |
+| Node-App | ![Node-App](Node-App.jpg) |
 
 ---
 
