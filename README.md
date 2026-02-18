@@ -6,7 +6,7 @@ This repository contains hands-on **Docker and DevOps projects** designed to dem
 
 ## 📌 Projects Overview
 
-### 🔹 Frotended | ![webpage](screenshots/frontend.jpeg) |
+### 🔹 Frotended | ![webpage](Screenshots/frontend.jpeg) |
 
 A containerized single-tier Node.js application deployed using Docker.
 
@@ -80,14 +80,12 @@ http://<EC2-Public-IP>:8000
 
 ---
 
-## 📂 Repository Structure
-
 ## 📸 Screenshots
 
 | Description | Screenshot |
 |-------------|------------|
-| Database | ![Database](screenshots/database.jpeg) |
-| Database Message | ![Database Message](screenshots/database-message.jpeg) |
+| Database | ![Database](Screenshots/database.jpeg) |
+| Database Message | ![Database Message](Screenshots/database-message.jpeg) |
 
 ---
 
