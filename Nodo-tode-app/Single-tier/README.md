@@ -80,13 +80,11 @@ http://<EC2-Public-IP>:8000
 
 ---
 
-## 📂 Repository Structure
-
 ## Screenshots
 | Description | Screenshot |
 |--------------|-------------|
 | Docker-Images | ![Docker Image](Docker-images.jpg) |
-| Node-App Webpage | ![Node-App](Node-app.jpg) |
+| Node-App Webpage | ![Node-App](Node-App.jpg) |
 
 ---
 
